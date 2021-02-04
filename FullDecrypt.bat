@@ -18,5 +18,5 @@ set /p secret=
 @cls
 color E
 echo Deszyfrowanie...
-java -jar ModerrkowoLoginDecrypt.jar -uuid %uuid% -pass %pass% -secret %secret%
+java -jar MLoginDecrypt.jar -uuid %uuid% -pass %pass% -secret %secret%
 pause

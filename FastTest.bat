@@ -10,7 +10,7 @@ set pass=pass
 set secret=secretkey
 echo.
 echo Podaj UUID gracza
-set uuid=6e2f3f47bcca420297c4dbfec9aff5b9
+set uuid=d0587957-d223-3564-b1a4-7deb740756fb
 echo 6e2f3f47bcca420297c4dbfec9aff5b9
 echo Podaj zaszyfrowane haslo MLoginem
 set pass=hCEB5NJki7n2zUKHRdnAew==
